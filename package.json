@@ -1,18 +1,19 @@
 {
-    "name": "lifeofjoseph",
-    "version": "1.0.0",
-    "type": "module",
-    "description": "An interactive RPG game about the life of Joseph",
-    "main": "index.js",
-    "scripts": {
-      "start": "node index.js"
-    },
-    "dependencies": {
-      "express": "^4.17.1"
-    },
-    "engines": {
-      "node": "20.x",
-      "npm": "10.x"
-    },
-    "license": "MIT"
-  }  
+  "name": "lifeofjoseph",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "An interactive RPG game about the life of Joseph",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "phaser": "^3.55.2"
+  },
+  "engines": {
+    "node": "20.x",
+    "npm": "10.x"
+  },
+  "license": "MIT"
+}
