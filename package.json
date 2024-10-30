@@ -1,6 +1,7 @@
 {
     "name": "lifeofjoseph",
     "version": "1.0.0",
+    "type": "module",
     "description": "An interactive RPG game about the life of Joseph",
     "main": "index.js",
     "scripts": {
